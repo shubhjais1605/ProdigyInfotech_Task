@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shobhit-jaiswal-183b26240(LinkedIn))</a>
+- <a>[Shobhit Jaiswal ](https://www.linkedin.com/in/shobhit-jaiswal-183b26240(LinkedIn))</a>
 - Email: shobhitjaiswal2000@gmail.com
